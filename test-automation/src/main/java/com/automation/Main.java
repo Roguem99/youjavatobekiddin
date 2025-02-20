@@ -7,9 +7,6 @@ public class Main {
         System.out.println(String.format("Hello %s", name));
         System.out.println(formattedString);
         System.out.println(3);
-        System.out.println(358);
-        System.out.println(50000);
-        System.out.println(6);
-        System.out.println(10);
+        System.out.println(Calculator.add(4, 5));
     }
 }
